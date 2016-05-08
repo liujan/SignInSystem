@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SignInSystem.iml" filepath="$PROJECT_DIR$/SignInSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SignInSystem-biz/SignInSystem-biz.iml" filepath="$PROJECT_DIR$/SignInSystem-biz/SignInSystem-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SignInSystem-dao/SignInSystem-dao.iml" filepath="$PROJECT_DIR$/SignInSystem-dao/SignInSystem-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SignInSystem-web/SignInSystem-web.iml" filepath="$PROJECT_DIR$/SignInSystem-web/SignInSystem-web.iml" />
+    </modules>
+  </component>
+</project>
